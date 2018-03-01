@@ -1,0 +1,206 @@
+"PEGI","PlatformMap_PEGI","USK","PlatformMap_USK","ESRB","PlatformMap_ESRB","OGDB","PlatformMap_OGDB","MOBYGAMES","PlatformMap_MOBYGAMES","MEDIAARTS","PlatformMap_MEDIAARTS","GAMEFAQS","PlatformMap_GAMEFAQS"
+"Digiblast ","Other","Amiga CD32 ","Amiga CD32","3DO ","Panasonic 3DO ","3DO","Panasonic 3DO ","3DO","Panasonic 3DO ","3DO REAL","Panasonic 3DO ","3do","Panasonic 3DO "
+"DVD Game ","Other","Amiga Computer ","PC","Amazon ","Other","Amstrad CPC - 3''-Diskette","PC","Acorn 32-bit","PC","DSiウェア","Nintendo DS","3ds","Nintendo 3DS "
+"Game Boy Advance ","Nintendo Game Boy Advance","Android ","Mobile","Android ","Mobile","Amstrad CPC - Cassette","PC","Alice 32/90","PC","NINTENDO64","Nintendo 64","dreamcast","Sega Dreamcast"
+"GameCube ","Nintendo GameCube","Atari 2600 ","Atari 2600","Atari Jaguar ","Atari Jaguar ","Apple II - 5.25''-Diskette","MAC OS","Amiga","Commodore Amiga","PC-FX","NEC PC Engine","gameboy","Nintendo Game Boy"
+"Gizmondo ","Gizmondo ","Atari Jaguar ","Atari Jaguar ","Atari Lynx ","Atari Lynx ","Apple IIgs","MAC OS","Amiga CD32","Commodore Amiga","PCエンジン","NEC PC Engine","gamecube","Nintendo GameCube"
+"Macintosh ","MAC OS","Blu-ray-Player ","Other","Cable Box ","TV","Apple Macintosh - 3.5'' Diskette","MAC OS","Amstrad CPC","PC","Wii","Nintendo Wii","gamegear","Sega Game Gear"
+"Mobile ","Mobile ","Coverdisk ","Other","CDI ","Compact Disc Interactive","Apple Macintosh - CD-ROM","MAC OS","Amstrad PCW","PC","Wii U","Nintendo Wii U","gbc","Nintendo Game Boy"
+"New Nintendo 3DS ","Nintendo 3DS ","DVD-Player ","Other","Connected TV's ","TV","Apple iOS","Mobile","Android","Mobile","Xbox","Microsoft Xbox","genesis","Sega Mega Drive"
+"Nintendo ","?","GFA-Handheld ","Other","Digital TV ","TV","Arcade","Arcade","Apple II","MAC OS","Xbox 360","Microsoft Xbox 360","jaguar","Atari Jaguar"
+"Nintendo 3DS ","Nintendo 3DS ","Gizmondo ","Gizmondo ","Dreamcast ","Sega Dreamcast","Arcade - Capcom - Andere","Arcade","Apple IIgs","MAC OS","Xbox One","Microsoft Xbox One","n64","Nintendo 64"
+"Nintendo DS ","Nintendo DS ","GP 32 ","Other","DS ","?","Arcade - Capcom CPS","Arcade","Arcade","Arcade","ゲームアーカイブス","Game Archives","neo","SNK Neo Geo"
+"Nintendo DSi - DSiWare ","Nintendo DS","iOS ","Mobile","DVD ","Other","Arcade - Capcom CPS 2","Arcade","Arcadia 2001","Other","ゲームギア","Sega Game Gear","nes","Nintendo Entertainment System"
+"Nintendo Switch ","Nintendo Switch ","Lerncomputer ","Other","Game Boy ","Nintendo Game Boy","Arcade - Data East ARM6","Arcade","Atari 2600","Atari 2600","ゲームボーイ","Nintendo Game Boy","ps","Sony PlayStation"
+"Nintendo Wii ","Nintendo Wii ","LS 2000 ","Other","Game Boy Advance ","Nintendo Game Boy Advance ","Arcade - Irem M52","Arcade","Atari 5200","Atari 5200","ゲームボーイアドバンス","Nintendo Game Boy Advance","ps2","Sony PlayStation 2"
+"Nintendo Wii - Virtual Console ","Nintendo Wii","Macintosh-PC ","MAC OS","Game Boy Color ","Nintendo Game Boy Color","Arcade - Kaneko Super Nova","Arcade","Atari 7800","Atari 7800","スーパーファミコン","Super Nintendo Entertainment System","ps3","Sony PlayStation 3"
+"Nintendo Wii - WiiWare ","Nintendo Wii","MEGA CD II ","Sega Mega Drive","Game Gear ","Sega Game Gear","Arcade - Konami - Andere","Arcade","Atari 8-bit","Atari 8-bit","セガサターン","Sega Saturn","ps4","Sony PlayStation 4"
+"Nintendo Wii U ","Nintendo Wii U ","Microsoft XBOX ","Microsoft Xbox","GameCube ","Nintendo GameCube","Arcade - Namco System 11","Arcade","Atari ST","Atari ST","ドリームキャスト","Sega Dreamcast","psp","Sony PlayStation Portable"
+"Nokia mobile phone ","Mobile","Microsoft XBOX 360 ","Microsoft Xbox 360","Genesis ","Sega Mega Drive","Arcade - Namco System 246","Arcade","Atom","Other","ニンテンドー3DS","Nintendo 3DS ","saturn","Sega Saturn"
+"PC ","PC ","Microsoft XBOX ONE ","Microsoft Xbox One","Gizmondo ","Gizmondo ","Arcade - Namco System 256","Arcade","BBC Micro","Other","ニンテンドーDS","Nintendo DS","sega32x","Sega Mega Drive"
+"Playstation 1 ","Sony PlayStation","Mobile Game ","Mobile","Hyperscan ","Mattel HyperScan","Arcade - SEGA Titan ST-V","Arcade","BREW","Other","ニンテンドーゲームキューブ","Nintendo GameCube","segacd","Sega Mega Drive"
+"Playstation 2 ","Sony PlayStation 2","New Nintendo 3DS ","Nintendo 3DS ","iOS ","Mobile","Arcade - SEGA Triforce","Arcade","Bally Astrocade","Other","ネオジオ","SNK Neo Geo","sms","Sega Master System"
+"Playstation 3 ","Sony PlayStation 3 ","Nintendo 3DS ","Nintendo 3DS ","iPAD ","Mobile","Arcade - SNK NeoGeo MVS","Arcade","BeOS","Other","ネオジオCD","SNK Neo Geo CD","snes","Super Nintendo Entertainment System"
+"Playstation 3 HOME ","Sony PlayStation 3 ","Nintendo 64 ","Nintendo 64","iPad ","Mobile","Arcade - Taito Type X/X+","Arcade","BlackBerry","Mobile","ネオジオポケット","SNK Neo Geo Pocket","tg16","NEC PC Engine"
+"PlayStation 4 ","Sony PlayStation 4","Nintendo DS ","Nintendo DS ","iPod ","Mobile","Atari 400","Atari 400","Blu-ray Disc Player","Other","ファミリーコンピュータ","Nintendo Entertainment System","virtualboy","Nintendo Virtual Boy"
+"PlayStation Network ","Sony PlayStation Network ","Nintendo DSi ","Nintendo DS","iPod Touch ","Mobile","Atari 5200","Atari 5200","Browser","Online","プレイステーション","Sony PlayStation","vita","Sony PlayStation Vita"
+"PlayStation Vita ","Sony PlayStation Vita","Nintendo Gameboy ","Nintendo Game Boy","IPTV ","TV","Atari 7800","Atari 7800","CD-i","Sega Saturn","プレイステーション Now","Sony PlayStation Now","wonderswan","Bandai WonderSwan"
+"Plug and Play ","Other","Nintendo Gameboy Advance ","Nintendo Game Boy Advance ","Linux ","PC","Atari 800 - Cartridge","Atari 800","CDTV","Other","プレイステーション Vita","Sony PlayStation Vita","wsc","Bandai WonderSwan"
+"Sony PSP ","Sony PlayStation Portable","Nintendo GameCube ","Nintendo GameCube","Linux based PC ","PC","Atari 800 - Diskette","Atari 800","Camputers Lynx","Other","プレイステーション2","Sony PlayStation 2","xbox","Microsoft Xbox"
+"Sony PSP - PSP GO ","Sony PlayStation Portable","Nintendo Switch ","Nintendo Switch ","Linux PC ","PC","Atari Jaguar","Atari Jaguar","Casio Loopy","Other","プレイステーション3","Sony PlayStation 3","xbox360","Microsoft Xbox 360"
+"Sony PSP Go ","Sony PlayStation Portable","Nintendo Wii ","Nintendo Wii ","Linux/SteamOS ","Steam OS ","Atari Lynx","Atari Lynx","Casio PV-1000","Other","プレイステーション4","Sony PlayStation 4","xboxone","Microsoft Xbox One"
+"Tapwave Zodiac ","Tapwave Zodiac ","Nintendo Wii U ","Nintendo Wii U ","Macintosh ","MAC OS","Atari ST","Atari ST","Channel F","Other","プレイステーション・ポータブル","Sony PlayStation Portable","wii","Nintendo Wii"
+"Vista ","PC","Nokia N-Gage ","Mobile","Mobile Phone ","Mobile","Atari VCS/2600 - Cartridge","Atari 2600","Coleco Adam","Other","メガドライブ","Sega Mega Drive","wii-u","Nintendo Wii U"
+"Windows Phone ","Mobile","Panasonic 3DO ","Panasonic 3DO ","Neo Geo Pocket Color ","Neo Geo Pocket Color ","Bandai Playdia","Bandai Playdia","ColecoVision","ColecoVision","ワンダースワン","Bandai WonderSwan","gba","Nintendo Game Boy Advance"
+"XBox ","Microsoft Xbox","PC ","PC ","New Nintendo 3DS ","Nintendo 3DS ","Bandai WonderSwan","Bandai WonderSwan","Colour Genie","Other",,,"ngpc","SNK Neo Geo Pocket"
+"XBox 360 ","Microsoft Xbox 360","PC/Mac-PC ","PC","N-Gage ","Mobile","Bandai WonderSwan Color","Bandai WonderSwan","Commodore 128","Commodore 128",,,"neogeocd","SNK Neo Geo CD"
+"XBOX 360 Live Arcade ","Microsoft Xbox 360","Philips CD-I ","Other","Nintendo ","?","CBS Colecovision","Arcade","Commodore 16, Plus/4","Commodore 16",,,"ds","Nintendo DS"
+"Xbox One ","Microsoft Xbox One","Pocket-PC ","Other","Nintendo 3DS ","Nintendo 3DS ","Commodore Amiga","Commodore Amiga","Commodore 64","Commodore 64",,,"pc88","NEC PC Engine"
+,,"Pokemon Mini ","Pokemon Mini ","Nintendo 64 ","Nintendo 64","Commodore Amiga AGA","Commodore Amiga","Commodore PET/CBM","Commodore PET/CBM",,,"turbocd","NEC PC Engine"
+,,"SEGA 32 X ","Sega Mega Drive","Nintendo DS ","Nintendo DS ","Commodore Amiga PPC","Commodore Amiga","Compucolor II","Other",,,"famicomds","Nintendo Entertainment System"
+,,"SEGA-Dreamcast ","Sega Dreamcast","Nintendo DSi ","Nintendo DS","Commodore C64 - CD-ROM","Commodore C64","DOS","PC",,,"pcfx","NEC PC Engine"
+,,"SEGA-Megadrive ","Sega Mega Drive","Nintendo Game Boy ","Nintendo Game Boy ","Commodore C64 - Cartridge","Commodore C64","DVD Player","Other",,,,
+,,"SEGA-Saturn ","Sega Saturn","Nintendo Switch ","Nintendo Switch ","Commodore C64 - Cassette","Commodore C64","Dedicated console","Other",,,,
+,,"Sony-Playstation 1 ","Sony PlayStation","No Platform ","No Platform ","Commodore C64 - Diskette","Commodore C64","Dedicated handheld","Other",,,,
+,,"Sony-Playstation 2 ","Sony PlayStation 2","NUON ","NUON ","Commodore C64 - Diskette + Cassette","Commodore C64","DoJa","Other",,,,
+,,"Sony-Playstation 3 ","Sony PlayStation 3 ","Online ","Online","Epoch Super Cassettevision","Other","Dragon 32/64","Other",,,,
+,,"Sony-Playstation 4 ","Sony PlayStation 4","Palm Pilot ","Mobile","Fujitsu FM-7/FM-77 - 3.5","Fujitsu FM","Dreamcast","Sega Dreamcast",,,,
+,,"Sony-PS Mobile ","Mobile","PC DVD ","Other","Fujitsu FM-7/FM-77 - 5.25","Fujitsu FM","Electron","Other",,,,
+,,"Sony-PS VITA ","PlayStation Vita","PC DVD-ROM ","Other","Fujitsu FM-77AV","Fujitsu FM","Enterprise","Other",,,,
+,,"Sony-PSP ","PlayStation Portable","PDA ","Mobile","Fujitsu FM-Towns/Marty - CD","Fujitsu FM","Epoch Cassette Vision","PC",,,,
+,,"Trailer ","Other","PlayStation 2 ","Sony PlayStation 2","Fujitsu FM-Towns/Marty - CD + Diskette","Fujitsu FM","Epoch Game Pocket Computer","PC",,,,
+,,"TV-Game ","TV","PlayStation 3 ","Sony PlayStation 3 ","Fujitsu FM-Towns/Marty - Diskette","Fujitsu FM","Epoch Super Cassette Vision","PC",,,,
+,,"V. Smile ","Other","PlayStation 4 ","Sony PlayStation 4","GamePark 32","Other","ExEn","Other",,,,
+,,"Windows Mobile ","Mobile","PlayStation Certified Device ","Mobile","Google Android","Mobile","Exelvision","Other",,,,
+,,"Windows Phone 7 ","Mobile","PlayStation/PS one ","Sony PlayStation","Internet / BBS / Browser","Online","Exidy Sorcerer","Other",,,,
+,,"XD Theater ","Other","Plug-and-Play ","Other","LCD Handheld","Other","FM Towns","Other",,,,
+,,,,"Pocket Arcade ","Other","MSX - Cartridge","MSX","FM-7","Other",,,,
+,,,,"Pocket PC ","Mobile","MSX - Cassette","MSX","Fire OS","Mobile",,,,
+,,,,"Pokemon Mini ","Pokemon Mini ","MSX-2 - Cartridge","MSX-2","GP2X","GP2X",,,,
+,,,,"PS Vita ","Sony PlayStation Vita","MSX-2 - Diskette","MSX-2","GP2X Wiz","GP2X Wiz",,,,
+,,,,"PSP ","Sony PlayStation Portable","Mattel Intellivision","Mattel Intellivision","GP32","GP32",,,,
+,,,,"Samsung TV ","TV","Microsoft Xbox","Microsoft Xbox","Game Boy","Nintendo Game Boy",,,,
+,,,,"Samsung TV (model Pavv Bordo) ","TV","Microsoft Xbox 360","Microsoft Xbox 360","Game Boy Advance","Nintendo Game Boy Advance",,,,
+,,,,"Samsung TV (model: Pavv Bordo) ","TV","Microsoft Xbox 360 - Download","Microsoft Xbox 360","Game Boy Color","Nintendo Game Boy",,,,
+,,,,"Samsung TV 750 ","TV","Microsoft Xbox One","Microsoft Xbox One","Game Gear","Sega Game Gear",,,,
+,,,,"Sega 32X ","Sega Mega Drive","Microsoft Xbox One - Download","Microsoft Xbox One","Game Wave","Other",,,,
+,,,,"Sega CD ","Sega Mega Drive","Mobile - J2ME","Mobile","Game.Com","Other",,,,
+,,,,"Sega Dreamcast ","Sega Dreamcast","NEC PC Engine Arcade CD-ROM²","NEC PC Engine","GameCube","Nintendo GameCube",,,,
+,,,,"Sega Genesis ","Sega Mega Drive","NEC PC Engine Super CD-ROM²","NEC PC Engine","GameStick","Other",,,,
+,,,,"Sega Pico ","Sega Pico ","NEC PC Engine Super Grafx","NEC PC Engine","Genesis","Sega Mega Drive",,,,
+,,,,"Sega Pocket Arcade ","Sega Pocket Arcade ","NEC PC Engine/TurboGrafx - CD-ROM²","NEC PC Engine","Gizmondo","Gizmondo",,,,
+,,,,"Sega Saturn ","Sega Saturn ","NEC PC Engine/TurboGrafx16","NEC PC Engine","HD DVD Player","TV",,,,
+,,,,"Sifteo Cubes ","Sifteo Cubes ","NEC PC-88 - Diskette","NEC PC Engine","HyperScan","Other",,,,
+,,,,"Steam OS ","Steam OS ","NEC PC-88 - Kassette","NEC PC Engine","Intellivision","Mattel Intellivision",,,,
+,,,,"Super Nintendo ","Super Nintendo Entertainment System","NEC PC-98 - 3.5""-Diskette","NEC PC Engine","J2ME","Other",,,,
+,,,,"VG Pocket ","Pelican VG Pocket","NEC PC-98 - 5.2""-Diskette","NEC PC Engine","Jaguar","Atari Jaguar",,,,
+,,,,"Virtual Boy ","Virtual Boy ","NEC PC-98 3,5""-Diskette + CD-ROM","NEC PC Engine","Jupiter Ace","Other",,,,
+,,,,"Web Browser ","Online","NEC PC-FX","NEC PC Engine","Kindle Classic","Mobile",,,,
+,,,,"Web TV ","Online","Nintendo 3DS","Nintendo 3DS ","LaserActive","Other",,,,
+,,,,"Wii ","Nintendo Wii ","Nintendo 3DS - Download","Nintendo 3DS ","Leapster","Other",,,,
+,,,,"Wii U ","Nintendo Wii U ","Nintendo 64","Nintendo 64","Linux","PC",,,,
+,,,,"Windows CE ","PC","Nintendo 64 Disc Drive","Nintendo 64","Lynx","Atari Lynx",,,,
+,,,,"Windows PC ","PC","Nintendo Classic Mini: Famicom/NES","Nintendo Classic Mini: Nintendo Entertainment System","MSX","MSX",,,,
+,,,,"Windows Phone ","Mobile","Nintendo DS","Nintendo DS","Macintosh","MAC OS",,,,
+,,,,"Xbox ","Microsoft Xbox","Nintendo DSi","Nintendo DS","Maemo","Other",,,,
+,,,,"Xbox 360 ","Microsoft Xbox 360","Nintendo DSi - Download","Nintendo DS","Mainframe","PC",,,,
+,,,,"Xbox One ","Microsoft Xbox One","Nintendo Famicom Disk System","Nintendo Famicom","Mattel Aquarius","Attel Aquarius",,,,
+,,,,"Xbox One X ","Microsoft Xbox One","Nintendo Famicom Disk System - Disk Writer","Nintendo Famicom","MeeGo","Other",,,,
+,,,,"Zodiac ","Tapwave Zodiac","Nintendo Famicom/NES","Nintendo Entertainment System","Memotech MTX","Other",,,,
+,,,,,,"Nintendo Game&Watch","Nintendo Game & Watch","Microbee","Other",,,,
+,,,,,,"Nintendo GameBoy","Nintendo Game Boy","Microvision","Other",,,,
+,,,,,,"Nintendo GameBoy - Nintendo Power","Nintendo Game Boy","Mophun","Other",,,,
+,,,,,,"Nintendo GameBoy Advance","Nintendo Game Boy Advance","N-Gage","Mobile",,,,
+,,,,,,"Nintendo GameBoy Advance e-Reader","Nintendo Game Boy Advance","N-Gage (service)","Moblie",,,,
+,,,,,,"Nintendo GameBoy Color","Nintendo Game Boy Color","NES","Nintendo Entertainment System",,,,
+,,,,,,"Nintendo GameBoy Color - Nintendo Power","Nintendo Game Boy Color","Nascom","Other",,,,
+,,,,,,"Nintendo GameBoy/GameBoy Color","Nintendo Game Boy","Neo Geo","SNK Neo Geo",,,,
+,,,,,,"Nintendo GameCube","Nintendo GameCube","Neo Geo CD","SNK Neo Geo CD",,,,
+,,,,,,"Nintendo New 3DS","New Nintendo 3DS ","Neo Geo Pocket","SNK Neo Geo Pocket",,,,
+,,,,,,"Nintendo New 3DS Download","New Nintendo 3DS ","Neo Geo Pocket Color","SNK Neo Geo Pocket",,,,
+,,,,,,"Nintendo Pokémon mini","Pokemon Mini ","New Nintendo 3DS","Nintendo 3DS",,,,
+,,,,,,"Nintendo Super Famicom - Bandai Sufami Turbo","Nintendo Super Famicom","NewBrain","Other",,,,
+,,,,,,"Nintendo Super Famicom - Nintendo Power","Nintendo Super Famicom","Newton","Other",,,,
+,,,,,,"Nintendo Super Famicom - Satellaview","Nintendo Super Famicom","Nintendo 3DS","Nintendo 3DS ",,,,
+,,,,,,"Nintendo Super Famicom/SNES","Super Nintendo Entertainment System","Nintendo 64","Nintendo 64",,,,
+,,,,,,"Nintendo Switch","Nintendo Switch","Nintendo DS","Nintendo DS",,,,
+,,,,,,"Nintendo Switch - Download","Nintendo Switch","Nintendo DSi","Nintendo DS",,,,
+,,,,,,"Nintendo VirtualBoy","Nintendo Virtual Boy","Nintendo Switch","Nintendo Switch",,,,
+,,,,,,"Nintendo Wii","Nintendo Wii","Nuon","Other",,,,
+,,,,,,"Nintendo Wii - Download","Nintendo Wii","OS/2","PC",,,,
+,,,,,,"Nintendo Wii U","Nintendo Wii U","Odyssey","Other",,,,
+,,,,,,"Nintendo Wii U - Download","Nintendo Wii U","Odyssey 2","Other",,,,
+,,,,,,"Nokia N-Gage - Cartridge","Mobile","Ohio Scientific","Other",,,,
+,,,,,,"Nuon Interactive DVD","Other","Oric","Other",,,,
+,,,,,,"PC - 3.5'' + 5.25'' Diskette","PC","Ouya","Other",,,,
+,,,,,,"PC - 3.5'' Diskette","PC","PC Booter","PC",,,,
+,,,,,,"PC - 5.25'' Diskette","PC","PC-6001","NEC PC Engine",,,,
+,,,,,,"PC - CD-ROM","PC","PC-8000","NEC PC Engine",,,,
+,,,,,,"PC - DVD-ROM","PC","PC-88","NEC PC Engine",,,,
+,,,,,,"PC - Download","PC","PC-98","NEC PC Engine",,,,
+,,,,,,"PC - Memory Stick","PC","PC-FX","NEC PC Engine",,,,
+,,,,,,"PC/Macintosh - CD-ROM","PC","PS Vita","Sony PlayStation Vita",,,,
+,,,,,,"PC/Macintosh - DVD-ROM","PC","PSP","Sony PlayStation Portable",,,,
+,,,,,,"PC/Macintosh - Download","PC","Palm OS","Mobile",,,,
+,,,,,,"PC/NEC PC-98 - CD-ROM","PC","Philips VG 5000","Other",,,,
+,,,,,,"Philips CD-i","Other","Pippin","Other",,,,
+,,,,,,"Philips G7000/Magnavox Odyssey2/Jopac","Other","PlayStation","Sony PlayStation",,,,
+,,,,,,"SEGA 32X","Sega Mega Drive 32X","PlayStation 2","Sony PlayStation 2",,,,
+,,,,,,"SEGA Dreamcast","Sega Dreamcast","PlayStation 3","Sony PlayStation 3",,,,
+,,,,,,"SEGA GameGear","Sega Game Gear","PlayStation 4","Sony PlayStation 4",,,,
+,,,,,,"SEGA Mark III/Master System - Built-in","Sega Mark III","Playdia","Other",,,,
+,,,,,,"SEGA Mark III/Master System - Cartridge","Sega Mark III","Pokémon Mini","Pokemon Mini",,,,
+,,,,,,"SEGA Mark III/Master System - MyCard","Sega Mark III","RCA Studio II","Other",,,,
+,,,,,,"SEGA Mega CD/Sega CD","Sega Mega Drive","Roku","Other",,,,
+,,,,,,"SEGA MegaDrive/Genesis","Sega Mega Drive","SAM Coupé","Other",,,,
+,,,,,,"SEGA SG-1000","Sega SG-1000","SEGA 32X","Sega Mega Drive 32X",,,,
+,,,,,,"SEGA Saturn","Sega Saturn","SEGA CD","Sega Mega Drive",,,,
+,,,,,,"SNK NeoGeo - CD","SNK Neo Geo","SEGA Master System","Sega Master System",,,,
+,,,,,,"SNK NeoGeo - Home Cart","SNK Neo Geo","SEGA Pico","Sega Pico",,,,
+,,,,,,"SNK NeoGeo Pocket","SNK Neo Geo Pocket","SEGA Saturn","Sega Saturn",,,,
+,,,,,,"SNK NeoGeo Pocket Color","SNK Neo Geo Pocket","SG-1000","Other",,,,
+,,,,,,"SONY PlayStation","Sony PlayStation","SNES","Super Nintendo Entertainment System",,,,
+,,,,,,"SONY PlayStation 2","Sony PlayStation 2","Sharp MZ-80B/2000/2500","PC",,,,
+,,,,,,"SONY PlayStation 3","Sony PlayStation 3 ","Sharp MZ-80K/700/800/1500","PC",,,,
+,,,,,,"SONY PlayStation 3 - Download","Sony PlayStation 3 ","Sharp X1","PC",,,,
+,,,,,,"SONY PlayStation 4","Sony PlayStation 4","Sharp X68000","PC",,,,
+,,,,,,"SONY PlayStation 4 - Download","Sony PlayStation 4","Sharp Zaurus","Pc",,,,
+,,,,,,"SONY PlayStation Portable","Sony PlayStation Portable","Sinclair QL","Other",,,,
+,,,,,,"SONY PlayStation Portable - Download","Sony PlayStation Portable","Sol-20","Other",,,,
+,,,,,,"SONY PlayStation Vita","Sony PlayStation Vita","Sord M5","Other",,,,
+,,,,,,"SONY PlayStation Vita - Download","Sony PlayStation Vita","Spectravideo","Other",,,,
+,,,,,,"Sharp X-1","Sharp X1","Super A'can","Other",,,,
+,,,,,,"Sharp X680x0","Sharp X68000","SuperGrafx","NEC PC Engine",,,,
+,,,,,,"Sinclair ZX Spectrum - Cassette","Sinclair ZX Spectrum","Supervision","Other",,,,
+,,,,,,"TIGER Game.com","Other","Symbian","Other",,,,
+,,,,,,"Texas Instruments TI99/4a - Cartridge","Other","TADS","Other",,,,
+,,,,,,"Time DPG-450","Time DPG-450","TI-99/4A","Other",,,,
+,,,,,,"Time DPG-520","Time DPG-520","TRS-80","Other",,,,
+,,,,,,"Vectrex","Vectrex","TRS-80 CoCo","Other",,,,
+,,,,,,"Video - DVD","TV","TRS-80 MC-10","Other",,,,
+,,,,,,,,"Tatung Einstein","Other",,,,
+,,,,,,,,"Thomson MO","Other",,,,
+,,,,,,,,"Thomson TO","Other",,,,
+,,,,,,,,"Timex Sinclair 2068","Other",,,,
+,,,,,,,,"Tizen","Other",,,,
+,,,,,,,,"Tomy Tutor","Other",,,,
+,,,,,,,,"TurboGrafx CD","NEC PC Engine",,,,
+,,,,,,,,"TurboGrafx-16","NEC PC Engine",,,,
+,,,,,,,,"V.Smile","Other",,,,
+,,,,,,,,"VIC-20","Other",,,,
+,,,,,,,,"VIS","Other",,,,
+,,,,,,,,"Vectrex","Other",,,,
+,,,,,,,,"Videopac+ G7400","Other",,,,
+,,,,,,,,"Virtual Boy","Nintendo Virtual Boy",,,,
+,,,,,,,,"Wii","Nintendo Wii",,,,
+,,,,,,,,"Wii U","Nintendo Wii U",,,,
+,,,,,,,,"Windows","PC",,,,
+,,,,,,,,"Windows 3.x","PC",,,,
+,,,,,,,,"Windows Apps","PC",,,,
+,,,,,,,,"Windows Mobile","Mobile",,,,
+,,,,,,,,"Windows Phone","Mobile",,,,
+,,,,,,,,"WonderSwan","Bandai WonderSwan",,,,
+,,,,,,,,"WonderSwan Color","Bandai WonderSwan Color",,,,
+,,,,,,,,"Xbox","Microsoft Xbox",,,,
+,,,,,,,,"Xbox 360","Microsoft Xbox 360",,,,
+,,,,,,,,"Xbox One","Microsoft Xbox One",,,,
+,,,,,,,,"Z-machine","Other",,,,
+,,,,,,,,"ZX Spectrum","Other",,,,
+,,,,,,,,"ZX80","Other",,,,
+,,,,,,,,"ZX81","Other",,,,
+,,,,,,,,"Zeebo","Other",,,,
+,,,,,,,,"Zodiac","Other",,,,
+,,,,,,,,"bada","Other",,,,
+,,,,,,,,"digiBlast","Other",,,,
+,,,,,,,,"iPad","Mobile",,,,
+,,,,,,,,"iPhone","Mobile",,,,
+,,,,,,,,"iPod Classic","Mobile",,,,
+,,,,,,,,"tvOS","Other",,,,
+,,,,,,,,"watchOS","Other",,,,
+,,,,,,,,"webOS","PC",,,,
+,,,,,,,,"Adventure Vision","Adventure Vision",,,,
+,,,,,,,,"Zune","Other",,,,
+,,,,,,,,"Terminal","Other",,,,
+,,,,,,,,"CreatiVision","Other",,,,
+,,,,,,,,"APF MP1000/Imagination Machine","Other",,,,
+,,,,,,,,"VideoBrain","Other",,,,
