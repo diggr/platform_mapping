@@ -1,1 +1,3 @@
-json_data
+/static_rest_api/*.csv
+/static_rest_api/*.json
+/static_rest_api/*.xlsx
