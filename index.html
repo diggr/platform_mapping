@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>DIGGR PLATFORM MAPPING</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+    <div class="row">
+      <div class="twelve columns" style="margin-top: 10%">
+        <h1>DIGGR PLATFORM MAPPING</h1>
+<p>The diggr platform mapping provides a mapping, reference and grouping for platform strings of various video game databases. It is meant to ease mapping and matching of releases, local releases or games in general which are to be found in these databases.</p>
+<p>This is meant as a first step towards unification of platform identification.</p>
+<p>The list is not exhaustive.</p>
+<p>Everything is provided as is and comes without any warranty.</p>
+<h2>Data</h2>
+<p>The vocabulary of platform names from each source were retrieved at different time.
+Last Updates:</p>
+<ul>
+<li><a href="http://esrb.org/">ESRB</a> 2017-08</li>
+<li><a href="http://gamefaqs.com/">GameFAQs</a> 2017-11</li>
+<li><a href="http://mediaarts-db.bunka.go.jp/gm">MediaArt</a> 2017-10</li>
+<li><a href="http://mobygames.com/">Mobygames</a> 2017-10</li>
+<li><a href="http://ogdb.eu/">OGDB</a> 2017-09</li>
+<li><a href="http://pegi.info/">PEGI</a> 2017-09</li>
+<li><a href="http://usk.de/">USK</a> 2017-08</li>
+</ul>
+<p>In some data sources there are platform groups (like "Game Archives") which includes individual platforms.
+A mapping is located at <em>platform_groups.tsv</em> in the tabular_data folder.</p>
+<p>The file <em>diggr_vocab.tsv</em> contains the whole standarized vocabulary we used for internal mappings. It also contains links to the <a href="https://gamemetadata.soe.ucsc.edu/platform">GAMECIP</a> Platform Vocabulary.</p>
+<h2>Metadata</h2>
+<p>JSON-exports contain information about the author, license and copyright information, a version and a date element.</p>
+<h3>version</h3>
+<p>The version number describes the general structure of the JSON-export. Major changes to the overall structure of the file result in a increase of the minor or major version number. Please refer to CHANGELOG to learn more about the changes, which were made. If you use the data in your application an fetch updates from this repository on a regular basis, please check for changes in the version number.</p>
+<h3>date</h3>
+<p>The date section in the JSON-exports indicates the time the data was exported. Updates to the data result in new <em>date</em>.</p>
+<h2>Contribution</h2>
+<p>Feel free to inform us about mistakes or ideas to provide better access to those mappings: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#101;&#97;&#109;&#64;&#100;&#105;&#103;&#103;&#114;&#46;&#108;&#105;&#110;&#107;">&#116;&#101;&#97;&#109;&#64;&#100;&#105;&#103;&#103;&#114;&#46;&#108;&#105;&#110;&#107;</a></p>
+<h2>License</h2>
+<ul>
+<li><strong>Software:</strong> GPLv3</li>
+<li><strong>Data:</strong> Creative Commons CC0 1.0 Universal</li>
+</ul>
+<h2>Copyright</h2>
+<p>2018, Universitätsbibliothek Leipzig</p>
+<h2>Authors</h2>
+<ul>
+<li>Tracy Hoffmann, <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#111;&#102;&#102;&#109;&#97;&#110;&#110;&#116;&#64;&#117;&#98;&#46;&#117;&#110;&#105;&#45;&#108;&#101;&#105;&#112;&#122;&#105;&#103;&#46;&#100;&#101;">&#104;&#111;&#102;&#102;&#109;&#97;&#110;&#110;&#116;&#64;&#117;&#98;&#46;&#117;&#110;&#105;&#45;&#108;&#101;&#105;&#112;&#122;&#105;&#103;&#46;&#100;&#101;</a></li>
+<li>Peter Mühleder, <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#117;&#101;&#104;&#108;&#101;&#100;&#101;&#114;&#64;&#117;&#98;&#46;&#117;&#110;&#105;&#45;&#108;&#101;&#105;&#112;&#122;&#105;&#103;&#46;&#100;&#101;">&#109;&#117;&#101;&#104;&#108;&#101;&#100;&#101;&#114;&#64;&#117;&#98;&#46;&#117;&#110;&#105;&#45;&#108;&#101;&#105;&#112;&#122;&#105;&#103;&#46;&#100;&#101;</a></li>
+<li>Florian Rämisch, <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#97;&#101;&#109;&#105;&#115;&#99;&#104;&#64;&#117;&#98;&#46;&#117;&#110;&#105;&#45;&#108;&#101;&#105;&#112;&#122;&#105;&#103;&#46;&#100;&#101;">&#114;&#97;&#101;&#109;&#105;&#115;&#99;&#104;&#64;&#117;&#98;&#46;&#117;&#110;&#105;&#45;&#108;&#101;&#105;&#112;&#122;&#105;&#103;&#46;&#100;&#101;</a></li>
+</ul>
+<h2>Links</h2>
+<ul>
+<li>Universitätsbibliothek Leipzig: <a href="http://ub.uni-leipzig.de">http://ub.uni-leipzig.de</a></li>
+<li>diggr: <a href="http://diggr.link">http://diggr.link</a></li>
+</ul>
+        
+        <h2>Files</h2>
+        <ul>
+            
+            <li>
+                <a href="diggr_vocabulary.csv">diggr_vocabulary.csv</a>
+            </li>
+            
+            <li>
+                <a href="diggr_vocabulary.json">diggr_vocabulary.json</a>
+            </li>
+            
+            <li>
+                <a href="diggr_vocabulary.xlsx">diggr_vocabulary.xlsx</a>
+            </li>
+            
+            <li>
+                <a href="esrb.csv">esrb.csv</a>
+            </li>
+            
+            <li>
+                <a href="esrb.json">esrb.json</a>
+            </li>
+            
+            <li>
+                <a href="esrb.xlsx">esrb.xlsx</a>
+            </li>
+            
+            <li>
+                <a href="gamefaqs.csv">gamefaqs.csv</a>
+            </li>
+            
+            <li>
+                <a href="gamefaqs.json">gamefaqs.json</a>
+            </li>
+            
+            <li>
+                <a href="gamefaqs.xlsx">gamefaqs.xlsx</a>
+            </li>
+            
+            <li>
+                <a href="index.html">index.html</a>
+            </li>
+            
+            <li>
+                <a href="mediaartdb.csv">mediaartdb.csv</a>
+            </li>
+            
+            <li>
+                <a href="mediaartdb.json">mediaartdb.json</a>
+            </li>
+            
+            <li>
+                <a href="mediaartdb.xlsx">mediaartdb.xlsx</a>
+            </li>
+            
+            <li>
+                <a href="mobygames.csv">mobygames.csv</a>
+            </li>
+            
+            <li>
+                <a href="mobygames.json">mobygames.json</a>
+            </li>
+            
+            <li>
+                <a href="mobygames.xlsx">mobygames.xlsx</a>
+            </li>
+            
+            <li>
+                <a href="ogdb.csv">ogdb.csv</a>
+            </li>
+            
+            <li>
+                <a href="ogdb.json">ogdb.json</a>
+            </li>
+            
+            <li>
+                <a href="ogdb.xlsx">ogdb.xlsx</a>
+            </li>
+            
+            <li>
+                <a href="pegi.csv">pegi.csv</a>
+            </li>
+            
+            <li>
+                <a href="pegi.json">pegi.json</a>
+            </li>
+            
+            <li>
+                <a href="pegi.xlsx">pegi.xlsx</a>
+            </li>
+            
+            <li>
+                <a href="platform_groups.json">platform_groups.json</a>
+            </li>
+            
+            <li>
+                <a href="usk.csv">usk.csv</a>
+            </li>
+            
+            <li>
+                <a href="usk.json">usk.json</a>
+            </li>
+            
+            <li>
+                <a href="usk.xlsx">usk.xlsx</a>
+            </li>
+            
+        </ul>
+        
+      </div>
+    </div>
+    <div class="row">
+        <div class="twelve columns" style="margin-top: 10%">
+            <h2>Funded By</h2>
+            <div class="row">
+                <div class="two columns">
+                    <img class="u-max-full-width" src="img/dfg.png" alt="diggr is funded by Deutsche Forschungsgemeinschaft." />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="margin-top: 10%; margin-bottom: 20%">
+        <div class="twelve columns">
+        <h2>Partners</h2>
+        <img class="u-max-full-width" src="img/diggr_sponsors.png" alt="diggr is funded by Deutsche Forschungsgemeinschaft." />
+        </div>
+    </div>
+  </div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
