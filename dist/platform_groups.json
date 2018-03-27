@@ -1,5 +1,20 @@
 {
+    "meta": {
+        "date": "2018-03-27T12:30:14",
+        "contact": "team@diggr.link",
+        "license": "Creative Commons CC0 1.0 Universal",
+        "version": "1.0",
+        "author": "Databased Infrastracture for Global Game culture Research",
+        "name": "PEGI"
+    },
     "platform_groups": {
+        "Game Archives": [
+            "Sony PlayStation 3",
+            "Sony PlayStation 4",
+            "Sony PlayStation Vita",
+            "Sony Playstation",
+            "Sony Playstation 2"
+        ],
         "Sony PlayStation Now": [
             "Sony PlayStation 3",
             "Sony PlayStation 4"
@@ -9,22 +24,7 @@
             "Sony PlayStation 4",
             "Sony PlayStation Vita",
             "Sony PlayStation Portable"
-        ],
-        "Game Archives": [
-            "Sony PlayStation 3",
-            "Sony PlayStation 4",
-            "Sony PlayStation Vita",
-            "Sony Playstation",
-            "Sony Playstation 2"
         ]
     },
-    "name": "Platform Groups",
-    "meta": {
-        "name": "OGDB",
-        "author": "Databased Infrastracture for Global Game culture Research",
-        "version": "1.0",
-        "contact": "team@diggr.link",
-        "date": "2018-03-27T12:08:25",
-        "license": "Creative Commons CC0 1.0 Universal"
-    }
+    "name": "Platform Groups"
 }

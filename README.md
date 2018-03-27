@@ -8,6 +8,15 @@ The list is not exhaustive.
 
 Everything is provided as is and comes without any warranty.
 
+## Access
+
+The data can be accessed in two forms: Either by cloning this repository and using the provided platform mapping files.
+Or by using the github pages, which are served from the _dist_ subdirectory as a static REST API.<https://diggr.github.io/platform_mapping>
+
+Using the static REST API version is preferable, as it always serves to up-to-date version,
+while using a cloned git repository can result in usage of an out-of-date version, e.g. if you 
+forget to pull the latest updates before using it. 
+
 ## Data
 
 The vocabulary of platform names from each source were retrieved at different time.

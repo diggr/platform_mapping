@@ -61,7 +61,7 @@ MAPPING_FILES = { m_title:join(MAPPING_PATH, m_filename) for m_title, m_filename
 PLATFORM_GROUP_FILE = join(MAPPING_PATH, "platform_groups.tsv")
 
 ## OUTPUT
-OUT_PATH = join(BASE_PATH, "static_rest_api")
+OUT_PATH = join(BASE_PATH, "dist")
 OUT_EXT = ".json"
 PLATFORM_GROUP_OUTFILE = join(OUT_PATH, "platform_groups"+OUT_EXT)
 
