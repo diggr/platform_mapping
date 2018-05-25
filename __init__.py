@@ -1,0 +1,2 @@
+from platform_mapping.platform_mapping import get_platform_mapping
+
