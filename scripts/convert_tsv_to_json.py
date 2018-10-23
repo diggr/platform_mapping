@@ -49,7 +49,7 @@ SKELETON_FILENAME = join( BASE_PATH, "skeleton.json")
 MAPPING_PATH = join(BASE_PATH, "tabular_data")
 MAPPING_FILENAMES = { "ESRB" : "esrb.tsv",
                       "GameFAQs": "gamefaqs.tsv",
-                      "MediaArtDB": "mediaart.tsv",
+                      "MediaArtDB": "mediaartdb.tsv",
                       "Mobygames": "mobygames.tsv",
                       "OGDB": "ogdb.tsv",
                       "PEGI": "pegi.tsv",
@@ -74,7 +74,7 @@ if not isdir(OUT_PATH):
     mkdir(OUT_PATH)
 
 # MAPPING FUNCTIONS
-def mapping_to_json(mapping_file, delimiter=DELIMITER):
+def mapping_to_json(mapping_file, delimiter=INPUT_DELIMITER):
     """
     Opens a tabular (default) or any other kind of two-column csv-data
     and returns its content as python object
