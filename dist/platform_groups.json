@@ -1,12 +1,13 @@
 {
     "meta": {
-        "date": "2018-03-27T12:30:14",
-        "contact": "team@diggr.link",
-        "license": "Creative Commons CC0 1.0 Universal",
-        "version": "1.0",
         "author": "Databased Infrastracture for Global Game culture Research",
-        "name": "PEGI"
+        "license": "Creative Commons CC0 1.0 Universal",
+        "contact": "team@diggr.link",
+        "version": "1.0",
+        "date": "2018-10-23T15:08:13",
+        "name": "Diggr Vocabulary"
     },
+    "name": "Platform Groups",
     "platform_groups": {
         "Game Archives": [
             "Sony PlayStation 3",
@@ -25,6 +26,5 @@
             "Sony PlayStation Vita",
             "Sony PlayStation Portable"
         ]
-    },
-    "name": "Platform Groups"
+    }
 }

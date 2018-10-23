@@ -37,7 +37,8 @@ from jinja2 import Template
 # CONFIGURATION
 
 ## DELIMITER OF THE BASE DATA
-DELIMITER="\t"
+INPUT_DELIMITER="\t"
+OUTPUT_DELIMITER=","
 
 ## BASE PATH IS PREPENDED TO ALL OTHER DATA PATHS
 BASE_PATH = join(dirname(abspath(__file__)), "..")
@@ -91,7 +92,7 @@ def mapping_to_json(mapping_file, delimiter=INPUT_DELIMITER):
     return output
 
 
-def mapping_to_xlsx(mapping_file, delimiter=DELIMITER):
+def mapping_to_xlsx(mapping_file, delimiter=INPUT_DELIMITER):
     """
     Opens a tabular (default) or any other kind of two-column csv-data
     and returns its content as python object
@@ -109,22 +110,22 @@ def mapping_to_xlsx(mapping_file, delimiter=DELIMITER):
     return wb
 
 
-def mapping_to_csv(mapping_file, delimiter=DELIMITER):
+def mapping_to_csv(mapping_file, input_delimiter=INPUT_DELIMITER, output_delimiter=OUTPUT_DELIMITER):
     """
     Opens a tabular (default) or any other kind of two-column csv-data
     and returns its content as python object
     """
     with open(mapping_file) as mfile:
-        reader = csv.reader(mfile, delimiter=delimiter)
+        reader = csv.reader(mfile, delimiter=input_delimiter)
         outfile = io.StringIO()
-        output = csv.writer(outfile, delimiter=";", quotechar='"')
+        output = csv.writer(outfile, delimiter=output_delimiter, quotechar='"')
 
         for row in enumerate(reader):
             output.writerow(row[1])
 
         return outfile
 
-def platform_group_to_json(platform_group_file, delimiter=DELIMITER):
+def platform_group_to_json(platform_group_file, delimiter=INPUT_DELIMITER):
     with open(platform_group_file) as pffile:
         reader = csv.reader(pffile, delimiter=delimiter)
 
@@ -141,7 +142,7 @@ def platform_group_to_json(platform_group_file, delimiter=DELIMITER):
 
         return result
 
-def platform_group_to_xlsx(platform_group_file, delimiter=DELIMITER):
+def platform_group_to_xlsx(platform_group_file, delimiter=INPUT_DELIMITER):
     with open(platform_group_file) as pffile:
         reader = csv.reader(pffile, delimiter=delimiter)
 
@@ -154,12 +155,12 @@ def platform_group_to_xlsx(platform_group_file, delimiter=DELIMITER):
 
         return wb
 
-def platform_group_to_csv(platform_group_file, delimiter=DELIMITER):
+def platform_group_to_csv(platform_group_file, input_delimiter=INPUT_DELIMITER, output_delimiter=OUTPUT_DELIMITER):
     with open(platform_group_file) as pffile:
-        reader = csv.reader(pffile, delimiter=delimiter)
+        reader = csv.reader(pffile, delimiter=input_delimiter)
 
         outfile = io.StringIO()
-        output = csv.writer(outfile, delimiter=";", quotechar='"')
+        output = csv.writer(outfile, delimiter=OUTPUT_DELIMITER, quotechar='"')
 
         for r, row in enumerate(reader):
             output.writerow(row[1])
@@ -193,7 +194,6 @@ def make_index_page(index_template=INDEX_TEMPLATE, readme=README, index_page=IND
 def create_static_rest_files(mapping_files=MAPPING_FILES,
                              platform_group_file=PLATFORM_GROUP_FILE,
                              platform_group_outfile=PLATFORM_GROUP_OUTFILE,
-                             delimiter=DELIMITER,
                              out_path=OUT_PATH,
                              out_ext=OUT_EXT,
                              skeleton_filename=SKELETON_FILENAME):
