@@ -1,230 +1,230 @@
-diggr vocabular;GAMECIP URI
-n.a.;
-Adventure Vision;
-Amazon ;
-Amiga CD32;
-Amiga Computer ;
-Android;
-APF MP1000/Imagination Machine;
-Arcade;
-Arcadia 2001;
-Atari 2600;http://www.gamemetadata.org/platform/1140
-Atari 400;
-Atari 5200;
-Atari 7800;
-Atari 800;
-Atari 8-bit;
-Atari Jaguar;
-Atari Lynx;
-Atari ST;
-Atom;
-Attel Aquarius;
-bada;
-Bally Astrocade;
-Bandai Playdia;
-Bandai WonderSwan;
-Bandai WonderSwan Color;
-BBC Micro;
-BeOS;
-BlackBerry;
-Blu-ray Game;
-BREW;
-Camputers Lynx;
-Casio Loopy;
-Casio PV-1000;
-CDTV;
-Channel F;
-Coleco Adam;
-ColecoVision;
-Colour Genie;
-Commodore 128;
-Commodore 16;
-Commodore 64;
-Commodore Amiga;
-Commodore C64;
-Commodore PET/CBM;
-Compact Disc Interactive;
-Compucolor II;
-Coverdisk ;
-CreatiVision;
-Dedicated console;
-Dedicated handheld;
-digiBLAST ;
-DoJa;
-Dragon 32/65;
-DVD Game;
-Electron;
-Enterprise;
-Epoch Super Cassettevision;
-Exelvision;
-ExEn;
-Exidy Sorcerer;
-FM Towns;
-FM-8;
-Fujitsu FM;
-Game Archives;
-Game Wave;
-GamePark 32;
-GameStick;
-GFA-Handheld ;
-Gizmondo;
-GP2X;
-GP2X Wiz;
-GP32;
-HyperScan;
-iOS;
-iPad;
-iPhone;
-iPod;
-iPod Touch ;
-J2ME;
-Jupiter Ace;
-Kindle Classic;
-LaserActive;
-LCD Handheld;
-Leapster;
-Lerncomputer ;
-Linux;
-LS 2000;
-Apple Mac OS;http://www.gamemetadata.org/platform/1116
-Maemo;
-Mattel HyperScan;
-Mattel Intellivision;
-MeeGo;
-Memotech MTX;
-Microbee;
-Microsoft Xbox;http://www.gamemetadata.org/platform/1119
-Microsoft Xbox 360;http://www.gamemetadata.org/platform/1120
-Microsoft Xbox One;http://www.gamemetadata.org/platform/1017
-Microvision;
-Mobile;
-Mophun;
-MSX;
-MSX-2;
-Nascom;
-NEC PC Engine;
-Neo Geo Pocket Color ;
-New Nintendo 3DS ;
-NewBrain;
-Newton;
-Nintendo 3DS;http://www.gamemetadata.org/platform/1126
-Nintendo 64;http://www.gamemetadata.org/platform/1122
-Nintendo Classic Mini: Nintendo Entertainment System;
-Nintendo DS;http://www.gamemetadata.org/platform/1029
-Nintendo DSi;http://www.gamemetadata.org/platform/1123
-Nintendo Entertainment System;http://www.gamemetadata.org/platform/1127
-Nintendo Famicom;http://www.gamemetadata.org/platform/1036
-Nintendo Game & Watch;
-Nintendo Game Boy;http://www.gamemetadata.org/platform/1037
-Nintendo Game Boy Advance;http://www.gamemetadata.org/platform/1038
-Nintendo Game Boy Color;http://www.gamemetadata.org/platform/1039
-Nintendo GameCube;http://www.gamemetadata.org/platform/1128
-Nintendo Switch;
-Nintendo Virtual Boy;
-Nintendo Wii;http://www.gamemetadata.org/platform/1129
-Nintendo Wii U;http://www.gamemetadata.org/platform/1130
-No Platform ;
-Nokia mobile phone ;
-Nokia N-Gage ;
-NUON;
-Odyssey;
-Odyssey 2;
-Ohio Scientific;
-Online;
-Oric;
-Ouya;
-Palm Pilot ;
-Panasonic 3DO ;
-PC;
-PDA;
-Pelican VG Pocket;
-Philips CD-I;
-Philips G7000;
-Philips VG5000;
-Pippin;
-Playdia;
-PlayStation Certified Device ;
-Plug and Play ;
-Pocket Arcade ;
-Pocket PC ;
-Pokemon Mini;
-RCA Studio II;
-Roku;
-SAM Coupé;
-Sega Dreamcast;http://www.gamemetadata.org/platform/1053
-Sega Game Gear;http://www.gamemetadata.org/platform/1054
-Sega Mark III;
-Sega Master System;
-Sega Mega Drive;http://www.gamemetadata.org/platform/1058
-Sega Mega Drive 32X;http://www.gamemetadata.org/platform/1059
-Sega Pico;
-Sega Pocket Arcade ;
-Sega Saturn;http://www.gamemetadata.org/platform/1135
-Sega SG-1000;
-SG-1001;
-Sharp X1;
-Sharp X68000;
-Sifteo Cubes ;
-Sinclair QL;
-Sinclair ZX Spectrum;
-SNK Neo Geo;
-SNK Neo Geo CD;
-SNK Neo Geo Pocket;
-Sol-20;
-Sony PlayStation;http://www.gamemetadata.org/platform/1136
-Sony PlayStation 2;http://www.gamemetadata.org/platform/1138
-Sony PlayStation 3;http://www.gamemetadata.org/platform/1070
-Sony PlayStation 4;http://www.gamemetadata.org/platform/1071
-Sony Playstation Mobile ;
-Sony PlayStation Network ;
-Sony PlayStation Now;
-Sony PlayStation Portable;http://www.gamemetadata.org/platform/1072
-Sony PlayStation Vita;http://www.gamemetadata.org/platform/1073
-Sord M5;
-Spectravideo;
-Steam OS ;
-Super A'can;
-Super Famicom;
-Super Nintendo Entertainment System;http://www.gamemetadata.org/platform/1139
-Supervision;
-Symbian;
-TADS;
-Tapwave Zodiac;
-Tatung Einstein;
-Terminal;
-Texas Instruments;
-Thomson MO;
-Thomson TO;
-TI-99/4A;
-Time DPG-450;
-Time DPG-520;
-Timex Sinclair 2069;
-Tizen;
-Tomy Tutor;
-Trailer ;
-TRS-80 CoCo;
-TRS-80 MC-10;
-TRS-80;
-TV;
-tvOS;
-V. Smile ;
-Vectrex;
-VIC-20;
-VideoBrain;
-Videopac+ G7401;
-VIS;
-Microsoft Windows Vista;http://www.gamemetadata.org/platform/1083
-watchOS;
-Windows Mobile ;
-Windows Phone ;
-Windows Phone 7;
-XD Theater ;
-Zeebo;
-Z-machine;
-Zodiac;
-Zune;
-ZX Spectrum;
-ZX80;
-ZX81;
-TIGER Game.com;
-;
+diggr vocabular,GAMECIP URI
+n.a.,
+Adventure Vision,
+Amazon ,
+Amiga CD32,
+Amiga Computer ,
+Android,
+APF MP1000/Imagination Machine,
+Arcade,
+Arcadia 2001,
+Atari 2600,http://www.gamemetadata.org/platform/1140
+Atari 400,
+Atari 5200,
+Atari 7800,
+Atari 800,
+Atari 8-bit,
+Atari Jaguar,
+Atari Lynx,
+Atari ST,
+Atom,
+Attel Aquarius,
+bada,
+Bally Astrocade,
+Bandai Playdia,
+Bandai WonderSwan,
+Bandai WonderSwan Color,
+BBC Micro,
+BeOS,
+BlackBerry,
+Blu-ray Game,
+BREW,
+Camputers Lynx,
+Casio Loopy,
+Casio PV-1000,
+CDTV,
+Channel F,
+Coleco Adam,
+ColecoVision,
+Colour Genie,
+Commodore 128,
+Commodore 16,
+Commodore 64,
+Commodore Amiga,
+Commodore C64,
+Commodore PET/CBM,
+Compact Disc Interactive,
+Compucolor II,
+Coverdisk ,
+CreatiVision,
+Dedicated console,
+Dedicated handheld,
+digiBLAST ,
+DoJa,
+Dragon 32/65,
+DVD Game,
+Electron,
+Enterprise,
+Epoch Super Cassettevision,
+Exelvision,
+ExEn,
+Exidy Sorcerer,
+FM Towns,
+FM-8,
+Fujitsu FM,
+Game Archives,
+Game Wave,
+GamePark 32,
+GameStick,
+GFA-Handheld ,
+Gizmondo,
+GP2X,
+GP2X Wiz,
+GP32,
+HyperScan,
+iOS,
+iPad,
+iPhone,
+iPod,
+iPod Touch ,
+J2ME,
+Jupiter Ace,
+Kindle Classic,
+LaserActive,
+LCD Handheld,
+Leapster,
+Lerncomputer ,
+Linux,
+LS 2000,
+Apple Mac OS,http://www.gamemetadata.org/platform/1116
+Maemo,
+Mattel HyperScan,
+Mattel Intellivision,
+MeeGo,
+Memotech MTX,
+Microbee,
+Microsoft Xbox,http://www.gamemetadata.org/platform/1119
+Microsoft Xbox 360,http://www.gamemetadata.org/platform/1120
+Microsoft Xbox One,http://www.gamemetadata.org/platform/1017
+Microvision,
+Mobile,
+Mophun,
+MSX,
+MSX-2,
+Nascom,
+NEC PC Engine,
+Neo Geo Pocket Color ,
+New Nintendo 3DS ,
+NewBrain,
+Newton,
+Nintendo 3DS,http://www.gamemetadata.org/platform/1126
+Nintendo 64,http://www.gamemetadata.org/platform/1122
+Nintendo Classic Mini: Nintendo Entertainment System,
+Nintendo DS,http://www.gamemetadata.org/platform/1029
+Nintendo DSi,http://www.gamemetadata.org/platform/1123
+Nintendo Entertainment System,http://www.gamemetadata.org/platform/1127
+Nintendo Famicom,http://www.gamemetadata.org/platform/1036
+Nintendo Game & Watch,
+Nintendo Game Boy,http://www.gamemetadata.org/platform/1037
+Nintendo Game Boy Advance,http://www.gamemetadata.org/platform/1038
+Nintendo Game Boy Color,http://www.gamemetadata.org/platform/1039
+Nintendo GameCube,http://www.gamemetadata.org/platform/1128
+Nintendo Switch,
+Nintendo Virtual Boy,
+Nintendo Wii,http://www.gamemetadata.org/platform/1129
+Nintendo Wii U,http://www.gamemetadata.org/platform/1130
+No Platform ,
+Nokia mobile phone ,
+Nokia N-Gage ,
+NUON,
+Odyssey,
+Odyssey 2,
+Ohio Scientific,
+Online,
+Oric,
+Ouya,
+Palm Pilot ,
+Panasonic 3DO ,
+PC,
+PDA,
+Pelican VG Pocket,
+Philips CD-I,
+Philips G7000,
+Philips VG5000,
+Pippin,
+Playdia,
+PlayStation Certified Device ,
+Plug and Play ,
+Pocket Arcade ,
+Pocket PC ,
+Pokemon Mini,
+RCA Studio II,
+Roku,
+SAM Coupé,
+Sega Dreamcast,http://www.gamemetadata.org/platform/1053
+Sega Game Gear,http://www.gamemetadata.org/platform/1054
+Sega Mark III,
+Sega Master System,
+Sega Mega Drive,http://www.gamemetadata.org/platform/1058
+Sega Mega Drive 32X,http://www.gamemetadata.org/platform/1059
+Sega Pico,
+Sega Pocket Arcade ,
+Sega Saturn,http://www.gamemetadata.org/platform/1135
+Sega SG-1000,
+SG-1001,
+Sharp X1,
+Sharp X68000,
+Sifteo Cubes ,
+Sinclair QL,
+Sinclair ZX Spectrum,
+SNK Neo Geo,
+SNK Neo Geo CD,
+SNK Neo Geo Pocket,
+Sol-20,
+Sony PlayStation,http://www.gamemetadata.org/platform/1136
+Sony PlayStation 2,http://www.gamemetadata.org/platform/1138
+Sony PlayStation 3,http://www.gamemetadata.org/platform/1070
+Sony PlayStation 4,http://www.gamemetadata.org/platform/1071
+Sony Playstation Mobile ,
+Sony PlayStation Network ,
+Sony PlayStation Now,
+Sony PlayStation Portable,http://www.gamemetadata.org/platform/1072
+Sony PlayStation Vita,http://www.gamemetadata.org/platform/1073
+Sord M5,
+Spectravideo,
+Steam OS ,
+Super A'can,
+Super Famicom,
+Super Nintendo Entertainment System,http://www.gamemetadata.org/platform/1139
+Supervision,
+Symbian,
+TADS,
+Tapwave Zodiac,
+Tatung Einstein,
+Terminal,
+Texas Instruments,
+Thomson MO,
+Thomson TO,
+TI-99/4A,
+Time DPG-450,
+Time DPG-520,
+Timex Sinclair 2069,
+Tizen,
+Tomy Tutor,
+Trailer ,
+TRS-80 CoCo,
+TRS-80 MC-10,
+TRS-80,
+TV,
+tvOS,
+V. Smile ,
+Vectrex,
+VIC-20,
+VideoBrain,
+Videopac+ G7401,
+VIS,
+Microsoft Windows Vista,http://www.gamemetadata.org/platform/1083
+watchOS,
+Windows Mobile ,
+Windows Phone ,
+Windows Phone 7,
+XD Theater ,
+Zeebo,
+Z-machine,
+Zodiac,
+Zune,
+ZX Spectrum,
+ZX80,
+ZX81,
+TIGER Game.com,
+,
