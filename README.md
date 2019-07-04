@@ -33,7 +33,7 @@ Last Updates:
 In some data sources there are platform groups (like "Game Archives") which includes individual platforms.
 A mapping is located at _platform_groups.tsv_ in the tabular_data folder.
 
-The file _diggr_vocab.tsv_ contains the whole standarized vocabulary we used for internal mappings. It also contains links to the [GAMECIP](https://gamemetadata.soe.ucsc.edu/platform) Platform Vocabulary.
+The file _diggr_vocab.tsv_ contains the whole standarized vocabulary we used for internal mappings. It also contains links to the [GAMECIP](https://gamemetadata.soe.ucsc.edu/platform) Platform Vocabulary and to Wikidata.
 
 ## Metadata
 
