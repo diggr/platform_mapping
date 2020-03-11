@@ -1,30 +1,30 @@
 {
-    "name": "Platform Groups",
     "meta": {
         "author": "Databased Infrastracture for Global Game culture Research",
-        "version": "1.0",
-        "name": "Mobygames",
-        "date": "2018-10-25T12:37:24",
+        "license": "Creative Commons CC0 1.0 Universal",
         "contact": "team@diggr.link",
-        "license": "Creative Commons CC0 1.0 Universal"
+        "version": "1.0",
+        "date": "2020-03-11T13:12:54",
+        "name": "Diggr Vocabulary"
     },
+    "name": "Platform Groups",
     "platform_groups": {
-        "Sony PlayStation Network ": [
-            "Sony PlayStation 3",
-            "Sony PlayStation 4",
-            "Sony PlayStation Vita",
-            "Sony PlayStation Portable"
-        ],
-        "Sony PlayStation Now": [
-            "Sony PlayStation 3",
-            "Sony PlayStation 4"
-        ],
         "Game Archives": [
             "Sony PlayStation 3",
             "Sony PlayStation 4",
             "Sony PlayStation Vita",
             "Sony Playstation",
             "Sony Playstation 2"
+        ],
+        "Sony PlayStation Now": [
+            "Sony PlayStation 3",
+            "Sony PlayStation 4"
+        ],
+        "Sony PlayStation Network ": [
+            "Sony PlayStation 3",
+            "Sony PlayStation 4",
+            "Sony PlayStation Vita",
+            "Sony PlayStation Portable"
         ]
     }
 }
